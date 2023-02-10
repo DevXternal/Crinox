@@ -1,0 +1,16 @@
+C:\Users\joshm\source\repos\Crinox\bin\Debug\Crinox.exe.config
+C:\Users\joshm\source\repos\Crinox\bin\Debug\Crinox.exe
+C:\Users\joshm\source\repos\Crinox\bin\Debug\Crinox.pdb
+C:\Users\joshm\source\repos\Crinox\obj\Debug\Crinox.csproj.AssemblyReference.cache
+C:\Users\joshm\source\repos\Crinox\obj\Debug\Crinox.csproj.SuggestedBindingRedirects.cache
+C:\Users\joshm\source\repos\Crinox\obj\Debug\Crinox.Properties.Resources.resources
+C:\Users\joshm\source\repos\Crinox\obj\Debug\Crinox.csproj.GenerateResource.cache
+C:\Users\joshm\source\repos\Crinox\obj\Debug\Crinox.csproj.CoreCompileInputs.cache
+C:\Users\joshm\source\repos\Crinox\obj\Debug\Crinox.exe
+C:\Users\joshm\source\repos\Crinox\obj\Debug\Crinox.pdb
+C:\Users\joshm\source\repos\Crinox\bin\Debug\Siticone.UI.dll
+C:\Users\joshm\source\repos\Crinox\obj\Debug\Crinox.csproj.CopyComplete
+C:\Users\joshm\source\repos\Crinox\bin\Debug\FastColoredTextBox.dll
+C:\Users\joshm\source\repos\Crinox\bin\Debug\WeAreDevs_API.dll
+C:\Users\joshm\source\repos\Crinox\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joshm\source\repos\Crinox\obj\Debug\Crinox.mainexploit.resources
